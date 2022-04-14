@@ -15,8 +15,18 @@
     background-size: cover;
     height: 800px;
     width:100%;
+   
 
 }
 .foto{
     height: 180px;
 }
+.descripcion{
+    width: 50%;
+    }
+#boton{
+    width: 20%;
+}
+ body{
+     background-color: #F8F9FA;
+ }

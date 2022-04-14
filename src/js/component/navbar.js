@@ -2,7 +2,7 @@ import React from "react";
 
 export function NavBar() {
 	return (
-		<nav class="navbar navbar-expand-lg navbar-light bg-light">
+		<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light ps-5">
 			<div class="container-fluid">
 				<a class="navbar-brand" href="#">
 					Aventuras
@@ -28,7 +28,7 @@ export function NavBar() {
 							</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="#">
+							<a class="nav-link" href="#cartas">
 								Actividades
 							</a>
 						</li>
