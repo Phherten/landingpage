@@ -10,3 +10,13 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.jumbotron{
+    background-image: url("https://images.unsplash.com/photo-1516372048654-2e06f99e1382?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80");
+    background-size: cover;
+    height: 600px;
+    width:100%;
+
+}
+.foto{
+    height: 180px;
+}
